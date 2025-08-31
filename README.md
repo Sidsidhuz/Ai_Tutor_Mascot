@@ -136,3 +136,4 @@ ai_tutor_mascot/
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
+
